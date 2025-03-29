@@ -10,7 +10,6 @@ This project extends my [Simple Multimodal Agent](https://github.com/sakhileln/m
 The focus is on learning conversational AI, context management, and memory integration while keeping it simple and local.
 
 ## Features
-
 - Text intent extraction (e.g., "describe", "classify") using spaCy.
 - Image classification using pre-trained MobileNet.
 - Memory system to track conversation history (inputs and outputs).
