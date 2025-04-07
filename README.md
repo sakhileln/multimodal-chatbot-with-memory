@@ -2,6 +2,7 @@
 A lightweight, CLI-based conversational agent that processes text and image inputs, remembers past interactions, and responds contextually. Built with Python, spaCy (text processing), MobileNet (image classification), and a simple memory system, it runs locally on a CPU.
 
 ## Overview
+
 This project extends my [Simple Multimodal Agent](https://github.com/sakhileln/multimodal-agent) by adding conversational memory. It takes text prompts (e.g., "What is this?") and image files (e.g., "dog.jpg") via CLI, processes them, and maintains context across interactions. For example:
 - Input 1: `--text "What is this?" --image "dog.jpg"` → "This is a dog."
 - Input 2: `--text "Is it big?"` → "The dog doesn’t look very big."
