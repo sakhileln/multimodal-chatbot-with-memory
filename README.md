@@ -1,5 +1,4 @@
 # Simple Multimodal Chatbot with Memory
-
 A lightweight, CLI-based conversational agent that processes text and image inputs, remembers past interactions, and responds contextually. Built with Python, spaCy (text processing), MobileNet (image classification), and a simple memory system, it runs locally on a CPU.
 
 ## Overview
