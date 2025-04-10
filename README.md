@@ -25,6 +25,7 @@ The focus is on learning conversational AI, context management, and memory integ
 - No new dependencies beyond the above.
 
 ## Installation
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/sakhileln/multimodal-chatbot-with-memory.git
