@@ -59,11 +59,9 @@ The focus is on learning conversational AI, context management, and memory integ
 - Build a reusable, modular codebase for future experiments.
 
 ## License
-
 This project is licensed under the GPL v3.0 License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-
 - Sakhile III  
 - [LinkedIn Profile](https://www.linkedin.com/in/sakhile-ndlazi)
 - [GitHub Profile](https://github.com/sakhileln)
