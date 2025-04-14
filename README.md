@@ -55,6 +55,7 @@ The focus is on learning conversational AI, context management, and memory integ
 - `requirements.txt`: Dependencies list.
 
 ## Goals
+
 - Deepen understanding of conversational AI and context management.
 - Build a reusable, modular codebase for future experiments.
 
