@@ -48,6 +48,7 @@ The focus is on learning conversational AI, context management, and memory integ
     python chatbot.py --text "Is it big?"
     ```
 ## Project Structure
+
 - `chatbot.py`: Main script with CLI, memory, and response logic.
 - `memory.py`: Memory system to store conversation history.
 - `text_processor.py`: Text intent extraction with spaCy.
