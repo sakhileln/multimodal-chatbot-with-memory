@@ -16,6 +16,7 @@ The focus is on learning conversational AI, context management, and memory integ
 - CLI interface with `argparse`.
 
 ## Requirements
+
 - Python 3.8+
 - Libraries:
   - `spacy==3.7.2` (with `en_core_web_sm` model)
